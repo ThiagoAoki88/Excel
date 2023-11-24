@@ -2,7 +2,7 @@
 
 Planilhas que servem de estudos sobre formulas como (PROVC, INDEX, MATCH e etc). Formulas que foram usadas pra preencher colunas usando outras colunas como referencia
 
-- [Coffe Sales]((https://github.com/ThiagoAoki88/Excel/tree/main/excel-project-coffee-sales-main)
+- [Coffe Sales](https://github.com/ThiagoAoki88/Excel/tree/main/excel-project-coffee-sales-main)
     --- Tratamento de imagens e Dashboard
 
 - [Limpeza e Junção de planilhas](https://github.com/ThiagoAoki88/Excel/tree/main/Limpeza%20e%20Jun%C3%A7%C3%A3o%20de%20planilhas)
