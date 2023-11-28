@@ -28,3 +28,6 @@ Planilhas que servem de estudos sobre formulas como (PROVC, INDEX, MATCH e etc).
 
  - [x] [Macros e VBA´s](https://github.com/ThiagoAoki88/Excel/tree/main/Macros%20e%20VBA%C2%B4s)<br />
     -- Pasta com exercicios de Macros e VBA(automatizações) <br />
+
+ - [x] [Fórmulas Gerais](https://github.com/ThiagoAoki88/Excel/tree/main/F%C3%B3rmulas%20Gerais)<br />
+    -- Pasta com exercicios de fórmulas(PROCV, ÍNDICE, CORRESP e etc) <br />
