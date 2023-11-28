@@ -19,4 +19,7 @@ Planilhas que servem de estudos sobre formulas como (PROVC, INDEX, MATCH e etc).
 
  - [x] [Filtro dinâmico](https://github.com/ThiagoAoki88/Excel/tree/main/Filtro%20din%C3%A2mico)<br />
     -- Planilha com um filtro dinamico usando "Filtro avançado" e "Macros"<br />
+
+ - [x] [Análise de dados e relatório básico](https://github.com/ThiagoAoki88/Excel/tree/main/An%C3%A1lise%20de%20dados%20e%20relat%C3%B3rio%20b%C3%A1sico)<br />
+    -- Pequenos ajustes na planilha e gerando resultados para os gráficos usando as formulas "SOMA", "CONT.SE", "SOMASE" e "MÉDIASE". E finalizando com um relatório geral <br />
 	
