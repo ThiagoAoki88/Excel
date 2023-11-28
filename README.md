@@ -27,4 +27,4 @@ Planilhas que servem de estudos sobre formulas como (PROVC, INDEX, MATCH e etc).
     -- Através de uma planilha já tratada fiz a tabela dinâmica e criei o Dashboard interativo <br />
 
  - [x] [Macros e VBA´s](https://github.com/ThiagoAoki88/Excel/tree/main/Macros%20e%20VBA%C2%B4s)<br />
-    -- Pasta com exercicios de Macros e VBA <br />
+    -- Pasta com exercicios de Macros e VBA(automatizações) <br />
