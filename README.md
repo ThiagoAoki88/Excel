@@ -22,4 +22,6 @@ Planilhas que servem de estudos sobre formulas como (PROVC, INDEX, MATCH e etc).
 
  - [x] [Análise de dados e relatório básico](https://github.com/ThiagoAoki88/Excel/tree/main/An%C3%A1lise%20de%20dados%20e%20relat%C3%B3rio%20b%C3%A1sico)<br />
     -- Pequenos ajustes na planilha e gerando resultados para os gráficos usando as formulas "SOMA", "CONT.SE", "SOMASE" e "MÉDIASE". E finalizando com um relatório geral <br />
-	
+
+ - [x] [Tabela Dinâmica e Dashboard](https://github.com/ThiagoAoki88/Excel/tree/main/Tabela%20Din%C3%A2mica%20e%20Dashboard)<br />
+    -- Através de uma planilha já tratada fiz a tabela dinâmica e criei o Dashboard interativo <br />
